@@ -1,4 +1,4 @@
-# ML-Customer-Retention-Analysis-
+# ML-Customer-Retention-Analysis
 A descriptive and predictive analysis on customer retentnion in a telecommunication company
 Cleaned and visualized the data to extract hidden insights about customer behaviour using Power BI
 Trained several Machine learning classification algorihthms and compared the prediction accuract
