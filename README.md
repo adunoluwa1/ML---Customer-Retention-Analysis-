@@ -1,7 +1,7 @@
 # ML-Customer-Retention-Analysis
 - A descriptive and predictive analysis on customer retention in a telecommunication company.
 - Cleaned and visualized the data to extract hidden insights about customer behaviour using Power BI.
-- Trained several Machine learning classification algorihthms and compared the prediction accuracy
+- Trained several Machine learning classification algorithms and compared the prediction accuracy
 - Predicted customer churn with a prediction accuracy of 86.21% using the random forest model
 
 ![Customer Retention Dashboard](https://user-images.githubusercontent.com/99233674/192845120-a993d1fa-ab74-4254-847a-4aae3adf40c8.jpg)
